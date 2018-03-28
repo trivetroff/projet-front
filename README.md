@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/trivetroff/projet-front.svg?branch=master)](https://travis-ci.org/trivetroff/projet-front)
+
+# projet-front
+
+Auteur: Tristan VETROFF
+
 # Town
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
