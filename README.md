@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/trivetroff/projet-front.svg?branch=master)](https://travis-ci.org/trivetroff/projet-front)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/f90b6f2a7110ac32d776/maintainability)](https://codeclimate.com/github/trivetroff/projet-front/maintainability)
 # projet-front
 
 Auteur: Tristan VETROFF
